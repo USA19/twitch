@@ -1,4 +1,3 @@
 # twitch
-An application allow user to go live using OBS
-
-A React Application that uses RTMP server and JSON server at the backend to add/remove/edit streams and go live using OBS.
+rupeat the step for each package i.e client, server, RTMP Server
+Run npm install after downloading the package to download all the dependenciese and then simply run npm start to run the appliacation
